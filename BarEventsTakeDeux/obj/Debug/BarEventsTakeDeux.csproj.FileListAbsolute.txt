@@ -124,3 +124,4 @@ C:\Users\prana\tiy\week-8\day-3\BarEventsTakeDeux\BarEventsTakeDeux\obj\Debug\Ba
 C:\Users\prana\tiy\week-8\day-3\BarEventsTakeDeux\BarEventsTakeDeux\obj\Debug\BarEventsTakeDeux.pdb
 C:\Users\prana\tiy\week-8\day-3\BarEventsTakeDeux\BarEventsTakeDeux\obj\Debug\BarEventsTakeDeux.Migrations.first.resources
 C:\Users\prana\tiy\week-8\day-3\BarEventsTakeDeux\BarEventsTakeDeux\obj\Debug\BarEventsTakeDeux.csproj.GenerateResource.Cache
+C:\Users\prana\tiy\week-8\day-3\BarEventsTakeDeux\BarEventsTakeDeux\obj\Debug\BarEventsTakeDeux.Migrations.TicketsAndOrdersadded.resources
